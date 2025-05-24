@@ -4,7 +4,7 @@ import { socialLinks } from "./config";
 export default function Page() {
   return (
     <section>
-      <a href="/IMG_0827.HEIC">
+      <a href="/IMG_0827.jpg">
         <Image
           src="/.jpeg"
           alt="Profile photo"
