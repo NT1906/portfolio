@@ -7,8 +7,20 @@ export interface Project {
 
 export const projects: Project[] = [
   {
+    title: "Talk2DAU",
+    year: 2025,
+    description: "An AI-powered chatbot for DAU, built with Langchain, Groq LLM, and Streamlit to answer questions from uploaded PDFs interactively.",
+    url: "https://github.com/NT1906/Talk2DAU",
+  },
+  {
+    title: "PRI-Prescription Risk Insight",
+    year: 2025,
+    description: "A machine learning model was developed using real Washington State data to predict opioid prescription risk levels, achieving 87% test accuracy.",
+    url: "https://github.com/NT1906/PRI-Prescription-Risk-Insight",
+  },
+  {
     title: "DDAPP",
-    year: 2023,
+    year: 2025,
     description: "Dyslexia Detection App, Presented Poster at CTDP-IIMA",
     url: "https://drive.google.com/drive/folders/1zC1qD0_Jg1c3c3VXqEVIPEzWPK2M-pfN?usp=sharing",
   },
