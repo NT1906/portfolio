@@ -1,8 +1,8 @@
 export const metaData = {
-  baseUrl: "https://portfolio-sigma-beige-78.vercel.app/",
+  baseUrl: "https://nktrivedi.vercel.app",
   title: "Home",
   name: "Nisarg",
-  ogImage: "/Users/nisarg/Downloads/Webpage_nisarg/port_folio/app/projects/profile.jpeg",
+  ogImage: "/IMG_0827.jpg",
   description:
     "",
 };
