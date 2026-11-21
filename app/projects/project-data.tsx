@@ -7,15 +7,21 @@ export interface Project {
 
 export const projects: Project[] = [
   {
+    title: "DiaTongue",
+    year: 2025,
+    description: "AI-powered diabetes screening from tongue images using MobileNetV2 and FastAPI, deployed as a Telegram bot for real-time analysis with 86% accuracy.",
+    url: "https://github.com/NT1906/DiaTongue",
+  },
+  {
     title: "Talk2DAU",
     year: 2025,
-    description: "An AI-powered chatbot for DAU, built with Langchain, Groq LLM, and Streamlit to answer questions from uploaded PDFs interactively.",
+    description: "Retrieval-augmented chatbot for university resources using LangChain, Groq LLM, and FAISS, with document chunking and vector search, deployed on Streamlit Cloud.",
     url: "https://github.com/NT1906/Talk2DAU",
   },
   {
     title: "PRI-Prescription Risk Insight",
     year: 2025,
-    description: "A machine learning model was developed using real Washington State data to predict opioid prescription risk levels, achieving 87% test accuracy.",
+    description: "Random Forest model classifying opioid prescriptions as high or low risk from Washington State demographic and prescription data, with about 87% accuracy.",
     url: "https://github.com/NT1906/PRI-Prescription-Risk-Insight",
   },
   {

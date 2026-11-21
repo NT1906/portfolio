@@ -3,6 +3,7 @@ import { ThemeSwitch } from "./theme-switch";
 import { metaData } from "../config";
 
 const navItems = {
+  "/research": { name: "Research" },
   "/projects": { name: "Projects" },
 };
 
